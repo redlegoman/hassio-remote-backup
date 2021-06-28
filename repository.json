@@ -1,0 +1,5 @@
+{
+    "name": "remote backup for HA",
+    "url": "https://github.com/redlegoman/hassio-remote-backup",
+    "maintainer": "redlegoman"
+}

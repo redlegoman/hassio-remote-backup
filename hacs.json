@@ -1,3 +1,4 @@
 {
   "name": "remote backup for HA",
+  "content_in_root": false
 }

@@ -1,0 +1,8 @@
+{
+  "version": "0.1",
+  "name": "remote backup for HA",
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": []
+}
